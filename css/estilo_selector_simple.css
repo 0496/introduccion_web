@@ -1,0 +1,17 @@
+p {
+    text-align: center;
+    color: red;
+}
+
+
+#id_p {
+    text-align: left;
+    color: blueviolet;
+}
+
+
+
+.class-p{
+    text-align: right;
+    color: green;
+}
